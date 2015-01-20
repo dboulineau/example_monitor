@@ -1,0 +1,15 @@
+{
+  "name": "example_monitor",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node monitor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dboulineau/example_monitor.git"
+  },
+  "dependencies": {
+    "nodemailer": "^1.3.0"
+  }
+}
